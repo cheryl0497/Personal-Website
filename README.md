@@ -11,5 +11,3 @@
 - CSS
 - JavaScript
 
-## Author
-[Manali Darji]()
