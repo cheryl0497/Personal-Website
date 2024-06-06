@@ -3,7 +3,7 @@
 
 # Check out the website
 
-[Click here]() to have a look!
+[Click here](https://cheryl0497.github.io/Personal-Website/) to have a look!
 
 
 ## Tech Stack
@@ -11,5 +11,3 @@
 - CSS
 - JavaScript
 
-## Author
-[Manali Darji]()
