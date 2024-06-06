@@ -53,12 +53,20 @@ const experiences = [
 // portfolio section
 const projects = [
     {
+        title: 'Movie Ticket Booking',
+        image: 'proj_1.jpg',
+        desc: 'A movie ticket booking system that simplifies the process of booking tickets for movies and shows.',
+        stack: 'Angular 10, Spring boot',
+        gitLink: 'https://github.com/cheryl0497/Urban-Ticket-Angular',
+        liveLink: ''
+    },
+    {
         title: 'Personal Website',
         image: 'proj_4.png',
         desc: 'An elegant portfolio to contain content of a personal nature rather than content pertaining to a company, organization or institution',
         stack: 'HTML, CSS, JS',
         gitLink: 'https://github.com/manalidarji/manalidarji.github.io',
-        liveLink: 'https://manalidarji.github.io/'
+        liveLink: 'https://cheryl0497.github.io/Personal-Website/'
     },
     {
         title: 'Kaun Banega Crorepati?',
