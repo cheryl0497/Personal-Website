@@ -9,6 +9,10 @@ const experiences = [
             implementation of complex software solutions.`,
             `Mentoring junior team members and conducting code reviews
             to ensure adherence to coding standards.`,
+            `Collaborated with business analysts to understand their requirements, 
+            propose user-friendly solutions, and design APIs.`,
+            `•	Developed code to migrate documents and note templates to a new shared drive, 
+            ensuring smooth server decommissioning and data transfer.`
         ]
     },
     {
