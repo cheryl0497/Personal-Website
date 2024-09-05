@@ -69,7 +69,7 @@ const projects = [
         image: 'proj_4.png',
         desc: 'An elegant portfolio to contain content of a personal nature rather than content pertaining to a company, organization or institution',
         stack: 'HTML, CSS, JS',
-        gitLink: 'https://github.com/manalidarji/manalidarji.github.io',
+        gitLink: 'https://github.com/cheryl0497/Personal-Website',
         liveLink: 'https://cheryl0497.github.io/Personal-Website/'
     },
     {
