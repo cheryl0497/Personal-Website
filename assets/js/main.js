@@ -79,6 +79,14 @@ const projects = [
         stack: 'Core JAVA',
         gitLink: 'https://github.com/cheryl0497/JavaQuizGame',
         liveLink: ''
+    },
+    {
+        title: 'Cafe Menu Card',
+        image: 'proj_3.png',
+        desc: "This project showcases a menu page created using JavaScript. The page is designed to provide a simple, interactive way to display menu items dynamically.",
+        stack: 'HTML, CSS, JS',
+        gitLink: 'https://github.com/cheryl0497/Cafe-Menu/tree/main?',
+        liveLink: 'https://cheryl0497.github.io/Cafe-Menu/'
     }
     ];
 
